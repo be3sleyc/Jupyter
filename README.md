@@ -4,3 +4,4 @@ This notebook is stored in a directory on my computer that is also a git reposit
 
 There is however, another cool project called binder, that can create a container to run the notebook interactivey. It can be found at https://mybinder.org/
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/be3sleyc/Jupyter/master)
